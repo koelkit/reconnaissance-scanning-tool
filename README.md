@@ -1,2 +1,2 @@
-# Jenkins automation:
-Upgrade your LTS Ubuntu machine to the latest version
+# reconnaissance scanning tool for web weaknesses:
+
