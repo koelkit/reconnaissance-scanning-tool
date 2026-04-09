@@ -1,5 +1,5 @@
 # 🔍Web Vulnerability Scanner
-A reconnaisance tool to scan a website
+A reconnaisance tool to scan a website for vulnerabilities
 
 ## ⚠️Note: disclaimer
 - **Authorization:** I designed this script to be executed only against systems you own or where you have explicit, written permission to test.
