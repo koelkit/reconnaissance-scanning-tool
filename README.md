@@ -10,6 +10,7 @@
 - `Bash`
 
 ## ✨Features
+- `Nuclei`
 
 ## ⚙️The Process
 
