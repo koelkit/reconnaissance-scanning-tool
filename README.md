@@ -17,7 +17,8 @@ A reconnaisance tool to scan a website for vulnerabilities
 ## ⚙️The Process
 
 ## 📋Prerequisites
-- `Python (preferably latest version)`
-- `Kali machine (preferably latest version)`
+- `Kali machine (preferably latest version) with the following modules are`
+   - `Python (preferably latest version)`
+
 
 ### 🚀Running the Project
