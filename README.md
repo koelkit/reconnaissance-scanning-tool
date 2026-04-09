@@ -2,6 +2,8 @@
 A automated reconnaisance tool to scan a website for vulnerabilities
 
 ## ⚠️Note: disclaimer
+- **The Scanning Engine:** All vulnerability scanning, template matching, and core engine functionality are powered by Nuclei.
+- **Ownership:** I do not own Nuclei or the Nuclei templates. This project simply provides the "glue" and automation logic surrounding the engine. Please support the original creators at ProjectDiscovery.
 - **Authorization:** I designed this script to be executed only against systems you own or where you have explicit, written permission to test.
 - **Liability:** I am not responsible for any misuse, damage, or legal consequences caused by this tool. You use this software at your own risk.
 - **Compliance:** Using this tool to "attack" targets without prior mutual consent is illegal. It is your responsibility as the user to obey all local and international laws.
