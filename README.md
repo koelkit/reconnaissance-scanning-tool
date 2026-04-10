@@ -2,7 +2,7 @@
   <img src="logo/omegon-logo.png" width="250" alt="Omegon Logo">
 </p>
 
-<h4 align="center">A reconnaissance tool to scan a website for vulnerabilities</h4>
+<h3 align="center">A reconnaissance tool to scan a website for vulnerabilities</h3>
 
 #
 
