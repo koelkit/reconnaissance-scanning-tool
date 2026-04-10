@@ -13,20 +13,28 @@
 - **Authorization:** I designed this script to be executed only against systems you own or where you have explicit, written permission to test.
 - **Liability:** I am not responsible for any misuse, damage, or legal consequences caused by this tool. You use this software at your own risk.
 - **Compliance:** Using this tool to "attack" targets without prior mutual consent is illegal. It is your responsibility as the user to obey all local and international laws.
+
 <br>  
+
 ## 🛠️Technologies
 - `Python`
 - `Bash`
 - `Nuclei`
+- 
 <br>
+
 ## ✨Features
 - **Automated Reconnaissance:** Rapidly identifies web assets and active services.
 - **Template-Based Scanning:** Leverages the powerful Nuclei engine for industry-standard vulnerability detection.
 - **Modular Logic:** Optimized using a hybrid of Python and Bash for maximum execution speed.
+- 
 <br>
+
 ## ⚙️The Process
 My inspiration for Omegon came from the Dutch Government Bug Bounty program. I was highly motivated to identify vulnerabilities in critical infrastructure, but I realized that manual testing was too slow to keep up with the scale of modern web environments. I needed a way to scan for weaknesses at high speed without sacrificing accuracy.
+
 <br>
+
 ## 📋Prerequisites
 - `Kali machine` (preferably latest version) with the following tools/software:
    - `Python` 
@@ -34,7 +42,9 @@ My inspiration for Omegon came from the Dutch Government Bug Bounty program. I w
 - `Working network connection`
 
 #
+
 <br>
+
 ### 🚀Running the Project
 
 #### Step 1: Installation & Dependency Check
