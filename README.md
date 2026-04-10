@@ -4,8 +4,8 @@
 
 <h3 align="center">A reconnaissance tool to scan a website for vulnerabilities</h3>
 
-####
-####
+<br>
+<br>
 
 ## ⚠️Note: disclaimer
 - **The Scanning Engine:** All vulnerability scanning, template matching, and core engine functionality are powered by [Nuclei](https://github.com/projectdiscovery/nuclei).
