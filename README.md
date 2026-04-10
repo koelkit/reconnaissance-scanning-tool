@@ -2,7 +2,7 @@
   <img src="logo/omegon-logo.png" width="250" alt="Omegon Logo">
 </p>
 
-A automated reconnaisance tool to scan a website for vulnerabilities
+<p align="center">A reconnaissance tool to scan a website for vulnerabilities</p>
 
 ## ⚠️Note: disclaimer
 - **The Scanning Engine:** All vulnerability scanning, template matching, and core engine functionality are powered by [Nuclei](https://github.com/projectdiscovery/nuclei).
