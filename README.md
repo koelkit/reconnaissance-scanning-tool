@@ -31,6 +31,8 @@ My inspiration for Omegon came from the Dutch Government Bug Bounty program. I w
    - `Go`
 - `Working network connection`
 
+
+
 ### 🚀Running the Project
 
 #### Step 1: Installation & Dependency Check
