@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo/omegon-logo.png" width="250" alt="Omegon Logo">
+  <img src="logo/omegon-logo.png" width="250" alt="Omegon Logo">
 </p>
 
 # 🔍Omegon
